@@ -1,0 +1,27 @@
+{
+  "name": "hali",
+  "version": "0.0.1",
+  "description": "A generic background-job abstraction for Node.js. Supports Kue and SQS.",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "3.3.4"
+  },
+  "engines": {
+    "node": "5.10.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "merge-stream": "^1.0.0",
+    "mocha": "2.4.5",
+    "should": "8.2.2",
+    "sinon": "^1.17.3"
+  },
+  "repository": "git@github.com:buffpojken/hali.git",
+  "contributors": [
+    {
+      "name": "Daniel Sundström",
+      "email": "daniel.sundstrom@lineducation.se",
+      "url": "www.danielsundstrom.com"
+    }
+  ]
+}
